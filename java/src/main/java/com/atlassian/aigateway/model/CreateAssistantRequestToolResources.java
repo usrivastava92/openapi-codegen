@@ -52,7 +52,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * A set of resources that are used by the assistant&#39;s tools. The resources are specific to the type of tool. For example, the &#x60;code_interpreter&#x60; tool requires a list of file IDs, while the &#x60;file_search&#x60; tool requires a list of vector store IDs. 
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class CreateAssistantRequestToolResources {
   public static final String SERIALIZED_NAME_CODE_INTERPRETER = "code_interpreter";
   @SerializedName(SERIALIZED_NAME_CODE_INTERPRETER)

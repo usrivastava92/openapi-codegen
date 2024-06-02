@@ -50,7 +50,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * Occurs when parts of a [run step](/docs/api-reference/runs/step-object) are being streamed.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class RunStepStreamEventOneOf2 {
   /**
    * Gets or Sets event

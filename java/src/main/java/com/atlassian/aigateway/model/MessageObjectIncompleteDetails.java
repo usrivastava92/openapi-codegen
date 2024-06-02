@@ -49,7 +49,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * On an incomplete message, details about why the message is incomplete.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class MessageObjectIncompleteDetails {
   /**
    * The reason the message is incomplete.

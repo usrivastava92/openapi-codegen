@@ -49,7 +49,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * An optional field that will only be present when you set &#x60;stream_options: {\&quot;include_usage\&quot;: true}&#x60; in your request. When present, it contains a null value except for the last chunk which contains the token usage statistics for the entire request. 
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class CreateChatCompletionStreamResponseUsage {
   public static final String SERIALIZED_NAME_COMPLETION_TOKENS = "completion_tokens";
   @SerializedName(SERIALIZED_NAME_COMPLETION_TOKENS)

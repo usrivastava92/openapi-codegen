@@ -50,7 +50,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * Details on the action required to continue the run. Will be &#x60;null&#x60; if no action is required.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class RunObjectRequiredAction {
   /**
    * For now, this is always &#x60;submit_tool_outputs&#x60;.

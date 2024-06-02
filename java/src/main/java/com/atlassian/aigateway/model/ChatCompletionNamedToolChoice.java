@@ -50,7 +50,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * Specifies a tool the model should use. Use to force the model to call a specific function.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class ChatCompletionNamedToolChoice {
   /**
    * The type of the tool. Currently, only &#x60;function&#x60; is supported.

@@ -49,7 +49,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * Options for streaming response. Only set this when you set &#x60;stream: true&#x60;. 
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class ChatCompletionStreamOptions {
   public static final String SERIALIZED_NAME_INCLUDE_USAGE = "include_usage";
   @SerializedName(SERIALIZED_NAME_INCLUDE_USAGE)

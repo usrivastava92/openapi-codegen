@@ -52,7 +52,7 @@ import com.atlassian.aigateway.JSON;
 /**
  * The delta containing the fields that have changed on the Message.
  */
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:48.665110+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-06-02T19:36:59.215862+05:30[Asia/Kolkata]", comments = "Generator version: 7.6.0")
 public class MessageDeltaObjectDelta {
   /**
    * The entity that produced the message. One of &#x60;user&#x60; or &#x60;assistant&#x60;.

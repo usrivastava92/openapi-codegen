@@ -1,9 +1,11 @@
 package com.atlassian.aigateway;
 
-import com.atlassian.aigateway.model.CreateChatCompletionResponse;
+import com.google.gson.Gson;
 
-public class Main {
-	public static void main(String[] args) {
-		var s = new CreateChatCompletionResponse()
+public class JSON {
+	public static Gson GSON = new Gson();
+
+	public static Gson getGson() {
+		return GSON;
 	}
 }
