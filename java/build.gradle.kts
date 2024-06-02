@@ -3,7 +3,7 @@ plugins {
     id("org.openapi.generator") version "7.6.0"
 }
 
-group = "com.atlassian"
+group = "com.usrivastava"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -14,7 +14,7 @@ openApiGenerate {
     generatorName.set("java")
     inputSpec.set("$rootDir/../openapi.json")
     outputDir.set("$rootDir")
-    modelPackage.set("$group.aigateway.model")
+    modelPackage.set("$group.model")
     skipValidateSpec.set(true)
     globalProperties.set(
         mapOf(
